@@ -50,6 +50,11 @@ Send an email:
 python app/email_service.py
 ```
 
+Run the my_mod file:
+```sh
+python app/my_mod.py
+```
+
 
 
 

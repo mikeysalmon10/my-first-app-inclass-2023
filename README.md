@@ -56,5 +56,9 @@ python app/my_mod.py
 ```
 
 
+## Testing
+Run tests:
 
-
+```sh
+pytest
+```

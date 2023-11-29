@@ -16,3 +16,6 @@ flask
 # TEST
 
 pytest
+
+
+gunicorn

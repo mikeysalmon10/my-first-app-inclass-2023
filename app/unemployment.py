@@ -29,7 +29,7 @@ def format_pct(my_number):
 
 #....
 def fetch_data():
-    request_url = f"https://www.alphavantage.co/query?function=UNEMPLOYMENT&apikey={API_Key}"
+    request_url = f"https://www.alphavantage.co/query?function=UNEMPLOYMENT&apikey={API_KEY}"
 
     response = requests.get(request_url)
 
